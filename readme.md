@@ -5,7 +5,7 @@
 ## Our Team
  
 #### Martin Shavov - Scrum Trainer
-####  Viktor Kunev- Backend developer
+####  Viktor Kanev- Backend developer
 #### Velizar Mihailov - Backend developer
 #### Mihail Nikolov - Backend developer
 
