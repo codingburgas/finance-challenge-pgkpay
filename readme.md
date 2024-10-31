@@ -1,5 +1,5 @@
 # PGKPay
-  
+![Logo](documents/logo.png)
 <hr>
 
 ## Our Team
