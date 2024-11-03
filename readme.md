@@ -26,8 +26,12 @@
 
 #### Used tools for our documentation, presentation & communication:
 <img src= "https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" height='40' width='40' alt="word logo"> <img src= "https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" height='40' width='40' alt="powerpoint logo">
+#### Languages
+<p align="left"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="C++ logo" width="48px">
+</p>
 
-## ⚙️ Installation	<a name = "installation"></a>
+## Installation	<a name = "installation"></a>
 ````
 step 0:cmd
 step 1: git clone <link>
