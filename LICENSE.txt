@@ -2,7 +2,7 @@ PGKPay License
 ==========================
 
 PGKPay  
-Copyright (c) [Year] PGKPay  
+Copyright (c) 2024 PGKPay  
 All rights reserved.
 
 1. License Grant
