@@ -16,7 +16,7 @@
 ## Documentation
 
 #### <img src= "https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" height='40' width='40' alt="word logo"> [Documentation](./documents/Documentation.docx)
-#### <img src= "https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" height='40' width='40' alt="powerpoint logo"> [Presentation][https://codingburgas-my.sharepoint.com/:p:/g/personal/mmshavov22_codingburgas_bg/Ea2OeURrTJJKhZEKUVQ5yl4BrS8Tmy_2jXZomTSAx3TCcQ?e=LbwFMM]
+#### <img src= "https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" height='40' width='40' alt="powerpoint logo"> [Presentation](https://codingburgas-my.sharepoint.com/:p:/g/personal/mmshavov22_codingburgas_bg/Ea2OeURrTJJKhZEKUVQ5yl4BrS8Tmy_2jXZomTSAx3TCcQ?e=LbwFMM)
 ## Used Technologies
 
 #### Used code editor & collaborative service: 
