@@ -4,10 +4,10 @@
 
 ## Our Team
  
-#### Martin Shavov - Scrum Trainer
-####  Viktor Kanev- Backend developer
-#### Velizar Mihailov - Backend developer
-#### Mihail Nikolov - Backend developer
+#### [Martin Shavov](https://github.com/MMShavov22) - Scrum Trainer
+####  [Viktor Kanev](https://github.com/VBKanev22)- Backend developer
+#### [Velizar Mihailov](https://github.com/VNMihaylov22) - Backend developer
+#### [Mihail Nikolov](https://github.com/MANikolov22) - Backend developer
 
 ## Our Goal
 
