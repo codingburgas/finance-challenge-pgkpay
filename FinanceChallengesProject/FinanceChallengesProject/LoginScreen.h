@@ -1,19 +1,25 @@
-#pragma once
-#include "raylib.h"
-#include <string>
+#ifndef LOGINSCREEN_H
+#define LOGINSCREEN_H
 
-class BalanceScreen {
+#include "raylib.h"
+
+class LoginScreen {
 public:
     void Init();
     void Draw();
     int HandleInput();
 
 private:
-    float balance = 1000.0f;  // Starting balance
-    std::string inputText;    // For the deposit/withdraw amount
-    bool isInputActive = false;
+    // Function to verify login credentials against accounts.txt
+    bool VerifyLogin();
 
-    Rectangle inputField = { 310, 280, 180, 40 };
-    Rectangle depositButton = { 270, 360, 110, 40 };
-    Rectangle withdrawButton = { 420, 360, 110, 40 };
+    Rectangle accountField = { 310, 240, 180, 40 };
+    Rectangle passwordField = { 310, 320, 180, 40 };
+    Rectangle loginButton = { 355, 400, 90, 40 };
+
+    char accountText[20] = "";
+    char passwordText[20] = "";
+    bool isAccountActive = true;
 };
+
+#endif // LOGINSCREEN_H
