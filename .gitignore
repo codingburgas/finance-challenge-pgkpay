@@ -1,0 +1,39 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# raylib compiled binaries (if any)
+*.exe
+*.dll
+*.lib
+*.so
+*.dylib
+*.o
+
+# Ignore build folders
+build/
+out/
+bin/
+obj/
+
+# Ignore CMake-generated files (if using CMake)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignore system files
+Thumbs.db
+.DS_Store
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore any local IDE workspace settings (optional)
+.idea/
