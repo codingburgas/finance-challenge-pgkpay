@@ -2,22 +2,32 @@
 ![Logo](documents/logo.png)
 <hr>
 
-## Our Team
+## 📋 Table of contents
+ 
+  
+  - [Team](#team)
+  - [Our goal](#goal)
+  - [Documentation and Presentation](#docs)
+  - [Used Technologies](#technologies)
+  - [Installation](#instal)
+
+## Our Team <a name="team"></a>
  
 #### [Martin Shavov](https://github.com/MMShavov22) - Scrum Trainer
 ####  [Viktor Kanev](https://github.com/VBKanev22)- Backend developer
 #### [Velizar Mihailov](https://github.com/VNMihaylov22) - Backend developer
 #### [Mihail Nikolov](https://github.com/MANikolov22) - Backend developer
 
-## Our Goal
+## Our Goal <a name="goal"></a>
 
 #### Our goal is to make a simplified banking app to help people manage their accounts remotely.
 
-## Documentation
+## Documentation <a name="docs"></a>
 
 #### <img src= "https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" height='40' width='40' alt="word logo"> [Documentation](https://codingburgas-my.sharepoint.com/:w:/g/personal/mmshavov22_codingburgas_bg/EdKrHMQEFThApsfPr9YwgtABPYlytQ0tgdp8UuR7AKrB3A?e=C66uP3)
 #### <img src= "https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" height='40' width='40' alt="powerpoint logo"> [Presentation](https://codingburgas-my.sharepoint.com/:p:/g/personal/mmshavov22_codingburgas_bg/Ea2OeURrTJJKhZEKUVQ5yl4BrS8Tmy_2jXZomTSAx3TCcQ?e=LbwFMM)
-## Used Technologies
+
+## Used Technologies <a name="technologies"></a>
 
 #### Used code editor & collaborative service: 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" height='40' width='40' alt="visual studio logo"> 
@@ -31,7 +41,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" alt="C++ logo" width="48px">
 </p>
 
-## Installation	<a name = "installation"></a>
+## Installation	<a name = "instal"></a>
 ````
 step 0:cmd
 step 1: git clone <link>
