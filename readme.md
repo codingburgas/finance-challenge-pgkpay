@@ -26,3 +26,18 @@
 
 #### Used tools for our documentation, presentation & communication:
 <img src= "https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" height='40' width='40' alt="word logo"> <img src= "https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" height='40' width='40' alt="powerpoint logo">
+
+## ⚙️ Installation	<a name = "installation"></a>
+````
+step 0:cmd
+step 1: git clone <link>
+step 2:close cmd
+step 3: open the solution FinanceChallengesProject.sln
+step 4: download Raylib
+step 5:right-click on FInanceChallengesProject and select properties
+step 6:select C/C++ General and Additional Include Directories and find the directory of raylib/include and press the Ok
+step 7:select Linker General and Additional Library Directories and find the directory of raylib/lib and press the Ok
+step 8:select Linker Input and Additional Dependencies and write raulib.lib and winmm.lib and press the Ok
+step 9:select Linker Input and Ignore Specific Default Libraries and write user32.lib and press the Ok
+step 10:apply everything and run the program
+````
